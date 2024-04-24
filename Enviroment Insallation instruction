@@ -1,0 +1,14 @@
+Enviroment Insallation:
+
+%%capture
+!pip install git+https://github.com/MaartenGr/BERTopic.git@master
+
+!pip install cudf-cu12 dask-cudf-cu12 --extra-index-url=https://pypi.nvidia.com
+!pip install cuml-cu12 --extra-index-url=https://pypi.nvidia.com
+!pip install cugraph-cu12 --extra-index-url=https://pypi.nvidia.com
+!pip install cupy-cuda12x -f https://pip.cupy.dev/aarch64
+
+!pip install safetensors
+!pip install datasets
+!pip install datashader
+!pip install adjustText
