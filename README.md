@@ -16,3 +16,4 @@ Discrepancies in the field of understanding and thematic determination of the wo
 That is why research of algorithms and their implementation in this work is an extremely important area of ​​study and research for the entire direction of text analytics.
 
 
+## Working Plan:
