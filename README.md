@@ -14,6 +14,3 @@ In this regard, the clustering of scientific works on such resources by the corr
 Discrepancies in the field of understanding and thematic determination of the work with its subsequent determination and marking may simply be absent, determining the text in the "gray zone" and not allowing the reader to determine its specific subject matter for a complete understanding and study of the scientific work.
 
 That is why research of algorithms and their implementation in this work is an extremely important area of ​​study and research for the entire direction of text analytics.
-
-
-## Working Plan:
